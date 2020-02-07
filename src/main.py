@@ -7,7 +7,7 @@ class FizzBuzz:
             return "Fizz"
         if number % 5 == 0:
             return "Buzz"
-        return str(number)
+        return str(number + 1)
 
 
 if __name__ == "__main__":
