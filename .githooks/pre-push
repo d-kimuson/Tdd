@@ -1,4 +1,3 @@
 #!/bin/bash
 
 docker exec myapp py.test
-py.test
