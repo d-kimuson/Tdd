@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite errors="0" failures="0" hostname="Mac-Book-Pro.local" name="pytest" skipped="0" tests="4" time="0.068"
+               timestamp="2020-02-07T17:15:33.551918">
+        <testcase classname="test_fizzbuzz.Test3の倍数" file="test_fizzbuzz.py" line="11" name="test_3を渡したらFizzを返す"
+                  time="0.001"></testcase>
+        <testcase classname="test_fizzbuzz.Test5の倍数" file="test_fizzbuzz.py" line="16" name="test_5を渡したらBuzzを返す"
+                  time="0.001"></testcase>
+        <testcase classname="test_fizzbuzz.Testその他" file="test_fizzbuzz.py" line="21" name="test_1を渡したら文字列1を返す"
+                  time="0.002"></testcase>
+        <testcase classname="test_fizzbuzz.Testその他" file="test_fizzbuzz.py" line="24" name="test_2を渡したら文字列を返す"
+                  time="0.004"></testcase>
+    </testsuite>
+</testsuites>
