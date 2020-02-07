@@ -1,4 +1,4 @@
 #!/bin/bash
 
-git rev-parse --show-toplevel && cd src
+docker exec myapp py.test
 py.test
