@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcd && cd src && py.test
+git rev-parse --show-toplevel && cd src && py.test
